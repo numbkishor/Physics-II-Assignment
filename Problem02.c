@@ -9,5 +9,5 @@ int main ()
      d=(lembda_1 * m1)/(sin(th_1));
      th_2=asin((lembda_2 * m2)/d)*(180/pi);
      printf("The angle for second bright spot will be: %lf", th_2);
-    return 0;
+    return 0;
 }
