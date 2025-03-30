@@ -30,6 +30,8 @@ int main ()
         printf("Orange");
     } else if (wavelength >= 625 && wavelength <= 750) {
         printf("Red");
+    }else{
+        printf("Out of range");
     }
     return 0;
 }
